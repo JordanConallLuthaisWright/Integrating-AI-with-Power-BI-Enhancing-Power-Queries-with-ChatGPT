@@ -72,6 +72,8 @@ By reducing the manual effort required to analyze text or large volumes of unstr
 
 ## Power Query M Code for AI Integration
 
+![AI integrated in Power Query within PowerBI](images/AI%20integrated%20in%20query%20(PowerBI).png)
+
 Below is the Power Query M code used to integrate **ChatGPT** into Power Query for categorizing the song lyrics dataset:
 
 ```m
