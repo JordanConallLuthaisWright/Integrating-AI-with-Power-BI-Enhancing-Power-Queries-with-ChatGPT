@@ -36,7 +36,9 @@ For this test project, the dataset consists of **Eminem's song lyrics** (found o
 - **Album_URL**
 - **Views**
 - **Release_Date**
-- ***Song_Category*** <- The mission of this project using AI to query. 
+- ***Song_Category*** <- The mission of this project using AI to query.
+
+![Dataset in Power BI](dataset_in_powerBI.png)
 
 This dataset was chosen to explore the potential of AI in categorizing text based on thematic content.
 
