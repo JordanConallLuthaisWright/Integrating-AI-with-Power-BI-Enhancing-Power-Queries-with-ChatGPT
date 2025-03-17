@@ -1,4 +1,4 @@
-# AI Powered-Text-Categorization-in-Power-BI-Leveraging-ChatGPT-for-Song-Lyrics-Analysis
+# AI Powered Text Categorization in Power BI Leveraging ChatGPT for Song Lyrics Analysis
 
 ## Overview
 In this project, we explore the integration of OpenAI's **ChatGPT** with **Power BI**, specifically within **Power Query**. The goal was to leverage the power of AI to enhance the data transformation process, making it more efficient and insightful. Using a dataset of **Eminem’s song lyrics**, we categorized each song based on its lyrics with the help of ChatGPT, showcasing the potential for AI-assisted data analysis.
@@ -187,5 +187,18 @@ Now that you have your API key, you can integrate it with Power BI:
 ---
 
 By following these steps, you can replicate this project, use ChatGPT to categorize text in Power BI, and unlock deeper insights from your data.
+
+---
+
+## **Contact & Contributions**  
+Feel free to explore and contribute. If you have any suggestions, reach out or submit a pull request.  
+
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)  
+
+---
+
+### **Author:** Jordan  
+[GitHub Profile](https://github.com/JordanConallLuthaisWright)
+
 
 
