@@ -5,6 +5,8 @@ In this project, we explore the integration of OpenAI's **ChatGPT** with **Power
 
 This integration demonstrates how AI can support Power BI users in automating categorization tasks, improving text analysis, and enabling deeper insights within their datasets. This project was a test to explore the efficient relationship between Power Query and AI, with potential future applications across various industries.
 
+---
+
 ## Technical Skills and Tools
 ### 1. **Power Query (M Language)**
 Power Query is an essential tool within Power BI for data transformation. It allows users to clean, transform, and prepare data in a way that suits their analytical needs. By integrating AI with Power Query, you can extend its capabilities to handle more complex data tasks such as natural language processing (NLP), text categorization, and sentiment analysis.
@@ -15,12 +17,23 @@ OpenAI’s ChatGPT API, particularly models like **GPT-4**, can be used for more
 ### 3. **Power BI**
 Power BI itself is a powerful data visualization and reporting tool. When combined with AI, Power BI can transform data in ways that would have been time-consuming or even impossible to do manually. The integration of AI can automate processes that involve large volumes of unstructured text, such as categorizing song lyrics or summarizing customer feedback.
 
+---
+
 ## Dataset
-For this test project, the dataset consists of **Eminem's song lyrics**, which includes the following columns:
+
+## Files in This Repository  
+| File | Description |
+|------|------------|
+| `Eminem_Lyrics_Analysis.ipynb` | Jupyter Notebook with a detailed walkthrough of the analysis. |
+| `Eminem_Lyrics.csv` | Dataset containing the lyrics of Eminem's songs. |
+
+For this test project, the dataset consists of **Eminem's song lyrics** (found on kaggle), which includes the following columns:
 - **Song Name**: The name of the song.
 - **Lyrics**: The text of the song’s lyrics.
 
 This dataset was chosen to explore the potential of AI in categorizing text based on thematic content.
+
+---
 
 ## Relevance of AI Integration into Power BI
 
@@ -47,6 +60,8 @@ One of the most compelling advantages of integrating AI into Power BI is the abi
 - Provide intelligent recommendations based on data analysis.
 
 By reducing the manual effort required to analyze text or large volumes of unstructured data, AI accelerates the data transformation process, enabling more timely and data-driven decisions.
+
+---
 
 ## Power Query M Code for AI Integration
 
